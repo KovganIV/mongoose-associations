@@ -1,0 +1,10 @@
+{
+  "name": "mongoose-associations",
+  "description": "Relations / Associations plugin for Mongoose ODM",
+  "version": "0.0.0",
+  "dependencies": {
+    "mongoose": "4.4.8",
+    "i": "0.3.4",
+    "q": "1.4.1"
+  }
+}
